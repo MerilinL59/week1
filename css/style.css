@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap');
+
+body {
+    background-color: rgb(177, 68, 28);
+}
+
+.container {
+    text-align: center;
+    font-size:larger;
+}
+
+#profile-info {
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0%;
+}
+
+span {
+    font-family: "Bigelow Rules", serif;
+    font-weight: bold;
+    font-size: larger;
+}
